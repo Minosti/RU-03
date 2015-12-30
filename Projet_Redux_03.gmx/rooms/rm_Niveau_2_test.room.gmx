@@ -131,6 +131,8 @@
     <instance objName="obj_Syrene" x="96" y="352" name="inst_CCAF44BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Syrene" x="64" y="112" name="inst_DD9567EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Block_Base" x="0" y="0" name="inst_447ADC56" locked="0" code="" scaleX="7" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Game_start_end" x="32" y="32" name="inst_F1998511" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Draw_Bud" x="48" y="32" name="inst_42E6908C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

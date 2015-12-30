@@ -116,6 +116,8 @@
     <instance objName="obj_Block_Bub_Collision_V" x="480" y="192" name="inst_A44AA903" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Block_Bub_Collision_V" x="416" y="400" name="inst_F5BD3F08" locked="0" code="" scaleX="12" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ENM_PF" x="848" y="208" name="inst_46C72464" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Game_start_end" x="32" y="32" name="inst_0E08884A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Draw_Bud" x="48" y="32" name="inst_8A5D9994" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

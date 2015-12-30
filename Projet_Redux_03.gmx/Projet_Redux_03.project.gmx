@@ -233,12 +233,12 @@
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_TestRoom</room>
-    <room>rooms\rm_Niveau_4_test</room>
-    <room>rooms\rm_Niveau_5_test</room>
     <room>rooms\rm_Niveau_1_test</room>
     <room>rooms\rm_Niveau_2_test</room>
     <room>rooms\rm_Niveau_3_test</room>
+    <room>rooms\rm_Niveau_4_test</room>
+    <room>rooms\rm_Niveau_5_test</room>
+    <room>rooms\rm_TestRoom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
